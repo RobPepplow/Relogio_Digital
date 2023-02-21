@@ -30,7 +30,8 @@ Agradeço por testar e avaliar meu projeto. Estou sempre em busca de melhorias e
 
 ## Veja Agora No link Abaixo como Ficou o Projeto Final
 
-- ⚡ Link do Projeto: relogio-digital-robpepplow.surge.sh
+- ⚡ Link do Projeto: https://robpepplow.github.io/Relogio_Digital2/
+
 
 <div align="center">
   <h3 color="red">CONTATOS</h3>
